@@ -1,5 +1,6 @@
 <?xml version="1.0"?>
 <labelsgallery>
+   <labeltemplate name="Generic Sample Label" category="" filename="Generic-Label.tl" />
    <labeltemplate name="Bike Permit" category="" filename="Color-Bike-Permit.tl" />
    <labeltemplate name="EU Energy TV" category="" filename="Color-EU-Energy-TV-Label.tl" />
    <labeltemplate name="EU FIC Allergen" category="" filename="EU-FIC-Allergen-Label.tl" />
