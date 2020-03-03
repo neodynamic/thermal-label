@@ -8,4 +8,5 @@
    <labeltemplate name="Voice Pick Code" category="" filename="Voice-Pick-Code-Label.tl" />
    <labeltemplate name="Walmart SCC-14" category="" filename="Walmart-SCC-14-Label.tl" />
    <labeltemplate name="Non-editable Items Sample" category="" filename="Non-Editable-Items-Sample.tl" />
+   <labeltemplate name="Unicode RTL Texts Sample" category="" filename="unicode-rtl-texts.tl" />
 </labelsgallery>
